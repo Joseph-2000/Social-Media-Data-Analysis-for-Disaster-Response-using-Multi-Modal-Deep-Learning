@@ -1,0 +1,3 @@
+Can get the dataset from this link 
+https://crisisnlp.qcri.org/crisismmd 
+It is of 1.8GB
